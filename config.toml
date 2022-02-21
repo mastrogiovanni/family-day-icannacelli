@@ -52,7 +52,7 @@ canonifyurls = true
   # gravatarEmail = "thibaud.lepretre@gmail.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
+  picture = "/img/LOGO2.png"
   # Your Twitter username without the @. E.g : thibaudlepretre
   # twitter = "thibaudlepretre"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
@@ -92,7 +92,7 @@ canonifyurls = true
   identifier = "whatsapp"
   name = "Whatsapp"
   pre = "<i class=\"sidebar-button-icon fab fa-whatsapp\" aria-hidden=\"true\"></i>"
-  url = "https://chat.whatsapp.com/DBOy4D3FOlyF49VuuGEDRt"
+  url = "https://chat.whatsapp.com/ERpxslqZznJCzzsiplWCjR"
 
 #[[menu.links]]
 #  weight = 1
@@ -350,7 +350,7 @@ canonifyurls = true
   # --------------
   [params.comment]
     [params.comment.disqus]
-      enable = true
+      enable = false
       shortname = "hugo-tranquilpeak-theme"
     [params.comment.gitalk]
       enable = false

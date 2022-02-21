@@ -2,8 +2,8 @@
 title: "Acronimi"
 thumbnailImagePosition: left
 autoThumbnailImage: false
-thumbnailImage: /img/slide_1acronimi.png
-coverImage: /img/slide_1acronimi.png
+thumbnailImage: /img/Family-Day.jpg
+coverImage: /img/Family-Day.jpg
 coverSize: partial
 metaAlignment: center
 date: 2021-12-20
