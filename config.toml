@@ -15,7 +15,7 @@
 baseURL = "https://family-day.netlify.app"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "Re.Ge.I"
+title = "Family Day"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
 googleAnalytics = "G-XP7E9R70G3"
@@ -44,7 +44,7 @@ canonifyurls = true
 # Author
 # ------
 [author]
-  name = "Re.Ge.I"
+  name = "Family Day"
   # bio = "Entra nel gruppo <a href=''>Whatsapp!</a>"
   # job = ""
   # location = "I.C. Anna Celli"
@@ -121,7 +121,7 @@ canonifyurls = true
   # -----------
   # Description
   # -----------
-  description = "Re.Ge.I"
+  description = "Family Day"
 
   # ------------------
   # Syntax highlighter
