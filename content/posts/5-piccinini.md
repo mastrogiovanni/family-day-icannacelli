@@ -24,7 +24,6 @@ showPagination: false
 7. Sistemare staccionata lato via Fiorentini (renderla più stabile) e pitturarla.
 8. Sistemare isola ecologica, ripristinare la rete verde perimetrale e sistemare la recinzione a cui qualcuno è andato addosso.
 9. Applicare strisce antiscivolo sulle scale in marmo dell’entrata lato palestra e lato Villa Fassini.
-10. Sostituire Vetro porta palestra.
 
 # Elenco materiali per lavorazioni esterne:
 
@@ -37,5 +36,4 @@ showPagination: false
 7. Pala e piccone, avvitatore, tondini in ferro, cemento a presa rapida, vernice, pennelli.
 8. Rete verde, rete elettrosaldata.
 9. Strisce antiscivolo, materiale sgrassante da esterno, materiale per pulizie.
-10. Vetro, guarnizione e utensili.
 

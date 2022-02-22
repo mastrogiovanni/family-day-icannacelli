@@ -19,7 +19,7 @@ showPagination: false
 2. Taglio erba nelle zone a verde.
 3. Togliere erbacce dai vialetti, cordoli e marciapiedi.
 4. Sistemare parti con ruggine della recinzione.
-5. Sistemare cancello ingresso (attualmente il cancello pedonale si tiene aperto con una molla basterebbe inserire un pistone o molla).
+5. Sistemare cancello ingresso (attualmente il cancello pedonale si tiene aperto con una pietra basterebbe inserire un pistone o molla).
 6. Creare una piccola isola ecologica stile Piccinini.
 7. Ripristinare piccola staccionata di legno attualmente accatastata in un angolo togliere o rendere inoffensivi alcuni chiodi arrugginiti presenti.
 8. Sistemare il telo verde attaccato alla recinzione perimetrale che risulta in più parti stracciato.
