@@ -13,7 +13,7 @@ tags:
 showPagination: false
 ---
 
-# Elenco lavorazioni esterne plesso “Piccinini”
+# Elenco lavorazioni esterne:
 
 1. Pulizia generale (immondizia, carta, plastica, foglie, ecc..).
 2. Taglio erba nelle zone a verde.
@@ -26,7 +26,7 @@ showPagination: false
 9. Applicare strisce antiscivolo sulle scale in marmo dell’entrata lato palestra e lato Villa Fassini.
 10. Sostituire Vetro porta palestra.
 
-# Elenco materiali per lavorazioni esterne plesso “Piccinini”
+# Elenco materiali per lavorazioni esterne:
 
 1. Scope, rastrelli, pinze raccoglitrici, sacchi.
 2. Decespugliatore, rastrelli, sacchi.

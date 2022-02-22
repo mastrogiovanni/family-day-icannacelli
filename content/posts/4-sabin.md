@@ -13,7 +13,7 @@ tags:
 showPagination: false
 ---
 
-# Elenco lavorazioni esterne plesso “Sabin”
+# Elenco lavorazioni esterne:
 
 1. Pulizia generale (immondizia, carta, plastica, foglie, ecc..).
 2. Taglio erba nelle zone a verde.
@@ -28,7 +28,7 @@ showPagination: false
 11. Pitturare aula ex biblioteca (basta una mano per rinfrescare).
 12. Pitturare di bianco parete “aula gommosa” (in base al colore attualmente presente una mano potrebbe non bastare anzi è quasi certo).
 
-# Elenco materiali per lavorazioni esterne plesso “Sabin”
+# Elenco materiali per lavorazioni esterne:
 
 1. Scope, rastrelli, pinze raccoglitrici, sacchi.
 2. Decespugliatore, rastrelli, sacchi.
