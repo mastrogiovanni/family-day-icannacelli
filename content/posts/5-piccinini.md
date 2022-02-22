@@ -1,8 +1,8 @@
 ---
-title: "Squadra Piccini"
-thumbnailImagePosition: top
+title: "Squadra Piccinini"
+thumbnailImagePosition: left
 autoThumbnailImage: true
-thumbnailImage: /img/piccinini.png
+thumbnailImage: /img/piccinini-squared.png
 coverImage: /img/piccinini.png
 coverSize: partial
 metaAlignment: center

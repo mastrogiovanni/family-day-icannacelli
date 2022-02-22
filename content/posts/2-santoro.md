@@ -1,8 +1,8 @@
 ---
 title: "Squadra Santoro"
-thumbnailImagePosition: top
+thumbnailImagePosition: left
 autoThumbnailImage: true
-thumbnailImage: /img/santoro.png
+thumbnailImage: /img/santoro-squared.png
 coverImage: /img/santoro.png
 coverSize: partial
 metaAlignment: center

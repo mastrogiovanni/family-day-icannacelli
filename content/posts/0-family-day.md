@@ -18,6 +18,7 @@ showPagination: false
 
 *Il buon esempio è sempre contagioso*
 
+
 In collaborazione con Legambiente il Consiglio dei genitori invita tutti a 
 partecipare alla giornata del verde pulito che coinvolge volontari, genitori, 
 insegnanti e ragazzi nella cura degli ambienti scolastici. 

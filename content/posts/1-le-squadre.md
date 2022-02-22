@@ -1,6 +1,6 @@
 ---
 title: "Le Squadre"
-thumbnailImagePosition: top
+thumbnailImagePosition: left
 autoThumbnailImage: true
 thumbnailImage: /img/fbcc0ea05b3c9e135621ac72a6e4e005_XL.jpg
 coverImage: /img/fbcc0ea05b3c9e135621ac72a6e4e005_XL.jpg

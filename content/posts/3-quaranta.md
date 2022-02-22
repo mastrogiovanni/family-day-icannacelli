@@ -1,8 +1,8 @@
 ---
 title: "Squadra Quaranta"
-thumbnailImagePosition: top
+thumbnailImagePosition: left
 autoThumbnailImage: true
-thumbnailImage: /img/quaranta.png
+thumbnailImage: /img/quaranta-squared.png
 coverImage: /img/quaranta.png
 coverSize: partial
 metaAlignment: center

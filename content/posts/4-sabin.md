@@ -1,8 +1,8 @@
 ---
 title: "Squadra Sabin"
-thumbnailImagePosition: top
+thumbnailImagePosition: left
 autoThumbnailImage: true
-thumbnailImage: /img/sabin.png
+thumbnailImage: /img/sabin-squared.png
 coverImage: /img/sabin.png
 coverSize: partial
 metaAlignment: center
