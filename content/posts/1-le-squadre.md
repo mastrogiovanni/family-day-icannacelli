@@ -15,5 +15,5 @@ tags:
 showPagination: false
 ---
 
-Ogni plesso sarà guidato da un caposquadra che guiderà le operazioni di pulizia
+Ogni plesso avrà un caposquadra che guiderà le operazioni di pulizia
 
