@@ -89,10 +89,31 @@ canonifyurls = true
 
 [[menu.main]]
   weight = 5
-  identifier = "whatsapp"
-  name = "Whatsapp"
+  identifier = "Whatsapp Santoro"
+  name = "Santoro"
+  pre = "<i class=\"sidebar-button-icon fab fa-whatsapp\" aria-hidden=\"true\"></i>"
+  url = "https://chat.whatsapp.com/EMaKAQvqm97KrPX3bLIKpB"
+
+[[menu.main]]
+  weight = 6
+  identifier = "Whatsapp Piccinini"
+  name = "Piccinini"
   pre = "<i class=\"sidebar-button-icon fab fa-whatsapp\" aria-hidden=\"true\"></i>"
   url = "https://chat.whatsapp.com/ERpxslqZznJCzzsiplWCjR"
+
+[[menu.main]]
+  weight = 7
+  identifier = "Whatsapp Sabin"
+  name = "Sabin"
+  pre = "<i class=\"sidebar-button-icon fab fa-whatsapp\" aria-hidden=\"true\"></i>"
+  url = "https://chat.whatsapp.com/H2MjFzbNYhd4N6Omkg5voq"
+
+[[menu.main]]
+  weight = 8
+  identifier = "Whatsapp Quaranta"
+  name = "Quaranta"
+  pre = "<i class=\"sidebar-button-icon fab fa-whatsapp\" aria-hidden=\"true\"></i>"
+  url = "https://chat.whatsapp.com/KhXudbvlgOK5u8kyiR5LLb"
 
 #[[menu.links]]
 #  weight = 1
