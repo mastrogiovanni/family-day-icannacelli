@@ -25,15 +25,3 @@ showPagination: false
 8. Sistemare isola ecologica, ripristinare la rete verde perimetrale e sistemare la recinzione a cui qualcuno è andato addosso.
 9. Applicare strisce antiscivolo sulle scale in marmo dell’entrata lato palestra e lato Villa Fassini.
 
-# Elenco materiali per lavorazioni esterne:
-
-1. Scope, rastrelli, pinze raccoglitrici, sacchi.
-2. Decespugliatore, rastrelli, sacchi.
-3. Decespugliatore, piccone, zappa, scopa, sacchi.
-4. Sega, sacchi.
-5. Utensili da fabbro, svitol o similare, grasso.
-6. Cemento a presa rapida, sintolit, cazzola e cucchiara, mazzetta e cunei.
-7. Pala e piccone, avvitatore, tondini in ferro, cemento a presa rapida, vernice, pennelli.
-8. Rete verde, rete elettrosaldata.
-9. Strisce antiscivolo, materiale sgrassante da esterno, materiale per pulizie.
-
