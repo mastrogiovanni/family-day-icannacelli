@@ -13,16 +13,27 @@ tags:
 showPagination: false
 ---
 
-# Elenco lavorazioni esterne:
+# Esterno
 
-1. Pulizia generale (immondizia, carta, plastica, foglie, ecc..).
-2. Taglio erba nelle zone a verde.
-3. Togliere erbacce dai vialetti, cordoli e marciapiedi.
-4. Sistemare parti con ruggine della recinzione.
-5. Sistemare cancello ingresso (attualmente il cancello pedonale si tiene aperto con una pietra basterebbe inserire un pistone o molla).
-6. Creare una piccola isola ecologica stile Piccinini.
-7. Ripristinare piccola staccionata di legno attualmente accatastata in un angolo togliere o rendere inoffensivi alcuni chiodi arrugginiti presenti.
-8. Sistemare il telo verde attaccato alla recinzione perimetrale che risulta in più parti stracciato.
-9. Sistemare radici tronchi alberi tagliati (attualmente sono presenti nel giardino e potrebbero essere causa d’inciampo)
-10. Pitturare aula ex biblioteca (basta una mano per rinfrescare).
-11. Pitturare di bianco parete “aula gommosa” (in base al colore attualmente presente una mano potrebbe non bastare anzi è quasi certo).
+* Sfalcio erba e potatura rami ad altezza bambino  1
+
+# Interno
+
+* Tinteggiatura piccola biblioteca e angolo lettura  1
+* Riassemblaggio recinto in legno   1
+
+## Sez. A
+
+* Copertura con mostrina  di un filo elettrico   1
+
+## Sez. B
+
+* Riposizianamento di una mensola   1
+
+## Sez. C
+
+* Fissaggio del telaio di una zanzariera  1
+
+## Possibilità di smaltimento di giochi da giardino rotti e altro materiale
+
+## Possibilità di tinteggiatura aule (in modo particolare sez. A e sez. B) senza usare scale fino a max 2 m
