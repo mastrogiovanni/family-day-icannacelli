@@ -99,7 +99,7 @@ canonifyurls = true
   identifier = "Whatsapp Piccinini"
   name = "Piccinini"
   pre = "<i class=\"sidebar-button-icon fab fa-whatsapp\" aria-hidden=\"true\"></i>"
-  url = "https://chat.whatsapp.com/ERpxslqZznJCzzsiplWCjR"
+  url = "https://chat.whatsapp.com/Cv6bnS8YOYG9NxosFprXNl"
 
 [[menu.main]]
   weight = 7
